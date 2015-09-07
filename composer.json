@@ -1,0 +1,13 @@
+{
+    "name": "aidancornelius/xtoj-weather-feed",
+    "description": "XML to JSON weather data converter for BOM",
+    "require": {
+        "altorouter/altorouter": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "Aidan Cornelius-Bell",
+            "email": "aidan@teachersolutions.com.au"
+        }
+    ]
+}
